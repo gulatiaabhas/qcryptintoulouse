@@ -21,7 +21,7 @@ Speaker : Aabhas Gulati
 ### Summary
 
 - Covered the basics of Quantum Cryptography based on the [Lecture 1](https://ocw.tudelft.nl/wp-content/uploads/LN_Week1.pdf) and [Lecture 2](https://ocw.tudelft.nl/wp-content/uploads/LN_Week2.pdf). 
-- The notes of the first session are attached here [](https://gulatiaabhas.github.io/qcryptintoulouse/quantum-crypto/session-1-basics.html)
+- The notes of the first session are available [here](https://gulatiaabhas.github.io/qcryptintoulouse/quantum-crypto/session-1-basics.html)
 - The recording is available by email to ion.nechita AT univ-tlse3.fr
 
 
