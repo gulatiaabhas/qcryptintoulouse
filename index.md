@@ -7,10 +7,10 @@ TIQTOQS, the Quantum@Toulouse will start to organise talks on Quantum Cryptograp
 ## Session 2 - 12 November 2025, Wednesday, 2 PM. 
 Location : 3R4 Seminar Room, FERMI Building 
 
-Speaker : TBA
+Speaker : Tristan Klein
 
 ### Goals
-
+- Covering Privacy Amplification based on the [Lecture 4](https://ocw.tudelft.nl/wp-content/uploads/LN_Week4.pdf)
 
 ## Session 1 - 5 November 2025, Wednesday, 2 PM. 
 
