@@ -15,8 +15,9 @@ Location : 3R4 Seminar Room, FERMI Building
 
 Speaker : Tristan Klein
 
-### Goals
-- Covering Privacy Amplification based on the [Lecture 4](https://ocw.tudelft.nl/wp-content/uploads/LN_Week4.pdf)
+### Summary
+- Covered Privacy Amplification based on the [Lecture 4](https://ocw.tudelft.nl/wp-content/uploads/LN_Week4.pdf)
+- Lecture Notes by Tristan are available [here](https://gulatiaabhas.github.io/qcryptintoulouse/quantum-crypto/session-2-improving-security.html)
 
 ## Session 1 - 5 November 2025, Wednesday, 2 PM. 
 
