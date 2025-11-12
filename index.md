@@ -4,6 +4,12 @@ This website provides information and updates for the Quantum Cryptography Workg
 
 TIQTOQS, the Quantum@Toulouse will start to organise talks on Quantum Cryptography. We will mostly be following the TU Delft Open Course by Stephanie Werner and Thomas Vidick, [available here](https://ocw.tudelft.nl/courses/quantum-cryptography/). There is also a [book](https://www.cambridge.org/highereducation/books/introduction-to-quantum-cryptography/1D3D1FAE02AB40BE3780EBF9E461896B#overview) by the same authors.
 
+
+## Session 3 - 26 November 2025, Wednesday, 11 AM. 
+Location : 3R4 Seminar Room, FERMI Building 
+
+
+
 ## Session 2 - 12 November 2025, Wednesday, 11 AM. 
 Location : 3R4 Seminar Room, FERMI Building 
 
