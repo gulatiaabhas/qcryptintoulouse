@@ -11,8 +11,9 @@ Location : 3R4 Seminar Room, FERMI Building
 Speaker : Gian-Luca Spitzer
 
 ### Goals
-- Covering QKD (Quantum Key Distribution) based on the [Lecture 5](https://ocw.tudelft.nl/wp-content/uploads/LN_Week5.pdf) and [Lecture 6](https://ocw.tudelft.nl/wp-content/uploads/LN_Week6.pdf)
+- Covered QKD (Quantum Key Distribution) based on the [Lecture 5](https://ocw.tudelft.nl/wp-content/uploads/LN_Week5.pdf) and [Lecture 6](https://ocw.tudelft.nl/wp-content/uploads/LN_Week6.pdf).
 
+- Lecture Notes by Gian-Luca are available [here](https://gulatiaabhas.github.io/qcryptintoulouse/quantum-crypto/session-3-qkd.html)
 
 ## Session 2 - 12 November 2025, Wednesday, 11 AM. 
 Location : 3R4 Seminar Room, FERMI Building 
